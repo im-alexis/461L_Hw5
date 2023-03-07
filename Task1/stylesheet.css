@@ -1,0 +1,56 @@
+#top_choice{
+    font-size: 25px;
+    color: lightgoldenrodyellow;
+}
+
+#second_choice{
+    font-size: 23px;
+    color: gold;
+}
+#third_choice{
+    font-size: 20px;
+    color: gold;
+}
+#section_div{
+    color: white;
+    border: 1px solid white;
+}
+
+#header_list{
+    font-size: 30px;
+    font-family: cursive;
+    color: white;
+}
+#into{
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+    color: white;
+
+}
+body{
+    background-image: url("IMG_9392.JPG");
+}
+a:link {
+    color: lightcoral;
+    font-size: 30px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: lightgreen;
+    font-size: 30px;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    font-size: 30px;
+  }
+  
+  /* selected link */
+  a:active {
+    color: aquamarine;
+    font-size: 30px;
+  }
+
