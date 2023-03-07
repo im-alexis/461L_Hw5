@@ -14,6 +14,7 @@
 #section_div{
     color: white;
     border: 1px solid white;
+    padding-left: 10px;
 }
 
 #header_list{
@@ -27,6 +28,10 @@
     font-size: 60px;
     color: white;
 
+}
+#link{
+    text-align: center;
+    padding-bottom: 15px;
 }
 body{
     background-image: url("IMG_9392.JPG");
